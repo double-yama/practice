@@ -10,3 +10,10 @@ How would we do?
 I hate that because that smells awful.
 
 git branch master
+
+###I hate that because that smells awful.
+
+
+
+### That stinks.
+>>>>>>> Stashed changes
