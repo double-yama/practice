@@ -4,6 +4,7 @@
 ###
 How would we do?
 
+Hello, World!
 
 くさやくんくさすぎ
 
@@ -13,7 +14,4 @@ git branch master
 
 ###I hate that because that smells awful.
 
-
-
 ### That stinks.
->>>>>>> Stashed changes
